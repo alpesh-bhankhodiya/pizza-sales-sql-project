@@ -1,18 +1,32 @@
 # pizza-sales-sql-project
 SQL project analyzing pizza sales data using joins, CTEs, and window functions.
 
-# Skills Used
-- SQL
-- JOIN
+## Dataset
+The dataset contains:
+- Orders
+- Pizza Details
+- Pizza Types
+- Order Quantities
+
+## SQL Concepts Used
+- JOINs
 - GROUP BY
-- CTE
+- Aggregations
+- CTEs
 - Window Functions
-- Revenue Analysis
+- RANK()
 
-# Tools
+## Key Business Questions Solved
+1. Total revenue generated
+2. Top selling pizzas
+3. Revenue by category
+4. Orders by hour
+5. Top pizzas by revenue
+
+## Tools Used
 - PostgreSQL
+- GitHub
 
-# Insights
-- Top selling pizzas
-- Revenue trends
-- Category-wise sales
+## Files Included
+- pizza_project.sql
+- CSV datasets
